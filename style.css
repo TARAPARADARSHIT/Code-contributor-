@@ -40,8 +40,9 @@ a {
   padding: 20px;
   transition:0.25s ease-in-out;
 }
-a:hover {
-color:black;
+a:hover { 
+color:white;
+  border-bottom:5px solid black;
 }
 main {
   margin-top: 80px;
